@@ -8,7 +8,7 @@ Remove image background automatically with LDBM algorithmn.
 
 [![LDBM Matting](https://github.com/whitelok/ldbm-image-background-remover/blob/master/resources/ldbm.png)](https://github.com/whitelok/ldbm-image-background-remover)
 
- - Run LBDMImageBackgroundRemover:
+ - Run LDBMImageBackgroundRemover:
 
 ```bash
 LDBMImageBackgroundRemover /path/of/image /path/of/image_tag
@@ -16,7 +16,8 @@ LDBMImageBackgroundRemover /path/of/image /path/of/image_tag
 
 ## Download Releases
 
-
+### Version 1.0.0
+- [Mac](https://github.com/whitelok/ldbm-image-background-remover/releases/download/1.0.0/LDBMImageBackgroundRemover)
 
 ## Build
 

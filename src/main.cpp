@@ -25,7 +25,7 @@ void saveImg(std::string name, cv::Mat mat)
 
 void printUsage()
 {
-    printf("Usage: CutoutMaster /path/of/image /path/of/image_tag lamda \n");
+    printf("Usage: LDBMImageBackgroundRemover /path/of/image /path/of/image_tag lamda \n");
 }
 
 string type2str(int type) {

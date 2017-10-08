@@ -8,7 +8,7 @@
 
 [![LDBM Matting](https://github.com/whitelok/ldbm-image-background-remover/blob/master/resources/ldbm.png)](https://github.com/whitelok/ldbm-image-background-remover)
 
-- 运行 LBDMImageBackgroundRemover:
+- 运行 LDBMImageBackgroundRemover:
 
 ```bash
 LDBMImageBackgroundRemover /path/of/image /path/of/image_tag
@@ -16,9 +16,10 @@ LDBMImageBackgroundRemover /path/of/image /path/of/image_tag
 
 ## 下载预编译版本
 
+### Version 1.0.0
+ - [Mac](https://github.com/whitelok/ldbm-image-background-remover/releases/download/1.0.0/LDBMImageBackgroundRemover)
 
-
-## 构建
+## 编译构建
 
  1. Build and install [OpenCV](http://opencv.org/).
  2. Build and install [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page).
