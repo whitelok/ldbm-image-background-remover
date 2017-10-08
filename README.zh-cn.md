@@ -14,7 +14,7 @@
 LDBMImageBackgroundRemover /path/of/image /path/of/image_tag
 ```
 
-## 下载预编译版本
+## [下载预编译版本](https://github.com/whitelok/ldbm-image-background-remover/releases)
 
 ### Version 1.0.0
  - [Mac](https://github.com/whitelok/ldbm-image-background-remover/releases/download/1.0.0/LDBMImageBackgroundRemover)
