@@ -11,7 +11,7 @@ Remove image background automatically with LDBM algorithmn.
  - Run LBDMImageBackgroundRemover:
 
 ```bash
-LBDMImageBackgroundRemover /path/of/image /path/of/image_tag
+LDBMImageBackgroundRemover /path/of/image /path/of/image_tag
 ```
 
 ## Download Releases
@@ -20,14 +20,14 @@ LBDMImageBackgroundRemover /path/of/image /path/of/image_tag
 
 ## Build
 
-    1. Build and install [OpenCV](http://opencv.org/).
-    2. Build and install [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page).
-    3. Install [Cmake](https://cmake.org/).
-    4. cd ${project file}
-    5. mkdir build
-    6. cd build
-    7. cmake ..
-    8. make
+ 1. Build and install [OpenCV](http://opencv.org/).
+ 2. Build and install [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page).
+ 3. Install [Cmake](https://cmake.org/).
+ 4. cd ${project file}
+ 5. mkdir build
+ 6. cd build
+ 7. cmake ..
+ 8. make
 
 ## References
 
